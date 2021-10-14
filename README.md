@@ -5,7 +5,7 @@ LinkedIn es una red social orientada al uso empresarial, a los negocios y al emp
 
 Roles : 
 
-Gianela - QA
+Gianella Paredes - QA
 
 Kevin Paz - Developer
 
