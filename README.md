@@ -11,7 +11,7 @@ Kevin Paz - Developer
 
 Kevin Salazar - Developer
 
-Manuel - QA
+Manuel Vilcapoma- QA
 
 
 Caso de uso : 
