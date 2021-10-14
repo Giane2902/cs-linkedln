@@ -7,11 +7,11 @@ Roles :
 
 Gianela - QA
 
-Kevin Paz - QA
+Kevin Paz - Developer
 
 Kevin Salazar - Developer
 
-Manuel - Developer
+Manuel - QA
 
 
 Caso de uso : 
