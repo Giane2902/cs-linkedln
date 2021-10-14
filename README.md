@@ -11,6 +11,8 @@ Kevin Paz - QA
 
 Kevin Salazar - Developer
 
+Manuel - Developer
+
 
 Caso de uso : 
 ![image](https://user-images.githubusercontent.com/10501721/137222210-8fe49c42-25e8-407f-baf6-1171ecadab66.png)
